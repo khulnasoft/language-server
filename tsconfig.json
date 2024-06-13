@@ -1,0 +1,16 @@
+{
+  "references": [
+    {
+      "path": "./packages/vscode"
+    },
+    {
+      "path": "./packages/language-server"
+    }
+  ],
+  "exclude": [
+    "**/node_modules",
+    ".vscode-test"
+  ],
+  "files": [],
+  "include": []
+}
